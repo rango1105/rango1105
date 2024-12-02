@@ -31,7 +31,7 @@ I'm a passionate **Senior Full Stack Developer**. With a rich blend of front-end
   A web application that leverages machine learning for image recognition.  
   ✨ **Key Features**: Real-time analysis, user-friendly dashboard.  
 
-- **[⚡ Energy Dashboard](https://github.com/rango1105/energy-dashboard)**  
+- **[⚡ Energy Dashboard](https://www.energycap.com/energy-monitoring-software/)**  
   A dynamic dashboard for tracking energy usage in real-time.  
   ✨ **Key Features**: Data visualization, alerts for usage spikes.
 
