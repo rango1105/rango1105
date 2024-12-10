@@ -13,7 +13,7 @@ I'm a passionate **Senior Full Stack Developer**. With a rich blend of front-end
 - **Frameworks/Libraries**: React ⚛️, Next.js 🚀, Vue.js 🔮  
 
 ### Backend 🔧  
-- **Languages**: Python 🐍, Ruby 💎, Node.js 🌟  
+- **Languages**: Python 🐍, Node.js 🌟
 - **Frameworks**: Django 🐍, Express.js 🕊️  
 
 ### DevOps & Cloud ☁️  
