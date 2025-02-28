@@ -1,8 +1,8 @@
-# 👋 Hello there! I'm **John**! 💻✨  
+# 👋 Hello there! I'm **Atharva**! 💻✨  
 
 ## 🌍 About Me  
 
-I'm a passionate **Senior Full Stack Developer**. With a rich blend of front-end and back-end skills, I specialize in creating robust applications that provide excellent user experiences and optimize data processing. 🚀  
+I'm a passionate **Software Developer**. With a rich blend of front-end and back-end skills, I specialize in creating robust applications that provide excellent user experiences and optimize data processing. 🚀  
 
 ---  
 
