@@ -59,7 +59,7 @@
 
 ## 📫 Let's Connect!  
 
-💼 [LinkedIn](https://linkedin.com/in/john-joyner-python)  
+💼 [LinkedIn](https://linkedin.com/in/john-j-joyner)  
 📧 [Email](mailto:john.joyner1105@gmail.com)  
 
 ---
