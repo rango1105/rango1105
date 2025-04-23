@@ -8,9 +8,9 @@
 
 ## 🌍 About Me  
 
-🚀 **Senior Python Developer** with expertise in **AI-powered solutions, backend development, API integrations, and cloud computing.**  
-🔧 I craft **scalable** & **robust applications** using cutting-edge **AI, ML, and automation technologies.**  
-💡 Passionate about **innovation, problem-solving, and mentoring** developers to create high-impact products.  
+🚀 **Senior Python Developer** with expertise in **AI-powered solutions, backend development, API integrations, and cloud computing.**
+🔧 I craft **scalable** & **robust applications** using cutting-edge **AI, ML, and automation technologies.**
+💡 Passionate about **innovation, problem-solving, and mentoring** developers to create high-impact products.
 
 ---
 
@@ -59,8 +59,8 @@
 
 ## 📫 Let's Connect!  
 
-💼 [LinkedIn](https://linkedin.com/in/john-j-joyner)  
-📧 [Email](mailto:john.joyner1105@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/john-j-joyner)
+📧 [Email](mailto:john.joyner1105@gmail.com)
 
 ---
 
